@@ -1,0 +1,3 @@
+[submodule "p5-practices"]
+	path = p5-practices
+	url = git@github.com:Fabsolute/p5-practices.git
